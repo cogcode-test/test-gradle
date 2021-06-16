@@ -1,6 +1,0 @@
-test/gradle/model/School.java
- test.gradle.model.School
-test/gradle/model/Student.java
- test.gradle.model.Student
-test/gradle/App.java
- test.gradle.App
